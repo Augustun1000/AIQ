@@ -1,11 +1,11 @@
-# AIO
-This is My Custom Archlinux Installation With Openbox
+# AIQ
+This is My Custom Archlinux Installation With Qtile
 where I use these bash scripts added to archinstall desktop minimal.
 
 #Guide
 1: Use archinstall and install desktop minimal, active multilib and use wifi netwokmanager <br>
 2: Once the system is installed, restart the system and clone the repository <br>
-3: A folder called AIO will be created <br>
+3: A folder called AIQ will be created <br>
 4: cd aio <br>
 5: chmod 777 Basic-Installer.sh <br>
 6:  ./Basic-Installer.sh<br>
