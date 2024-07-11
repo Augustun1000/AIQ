@@ -10,7 +10,7 @@ rm -rf /home/augustun1000/AIQ/.git &&
 mv /home/augustun1000/AIQ/* /home/augustun1000/ &&
 rm -rf /home/augustun1000/AIQ &&
 # List of packages to install
-sudo pacman -S --noconfirm xorg-server xorg-xinit xorg-xrandr xdg-user-dirs xf86-video-intel mesa lib32-mesa vulkan-intel lib32-vulkan-intel vulkan-tools python-psutil qtile yad arandr feh gvfs htop neofetch pcmanfm-gtk3 networkmanager lm_sensors lxappearance-gtk3 nano geany rofi p7zip gimp kitty xterm flameshot baobab xarchiver sxiv meld mplayer papirus-icon-theme ttf-dejavu ttf-liberation noto-fonts gnome-disk-utility gparted noto-fonts-cjk pulseaudio pulsemixer brightnessctl mtpfs gvfs-mtp gvfs-gphoto2 os-prober networkmanager networkmanager-pptp networkmanager-openvpn nm-connection-editor network-manager-applet ncdu chromium
+sudo pacman -S --noconfirm xorg-server xorg-xinit xorg-xrandr xdg-user-dirs xf86-video-intel mesa lib32-mesa vulkan-intel lib32-vulkan-intel vulkan-tools python-psutil qtile yad arandr feh gvfs htop neofetch pcmanfm-gtk3 networkmanager lm_sensors lxappearance-gtk3 nano geany rofi p7zip gimp kitty xterm flameshot xarchiver sxiv meld mplayer papirus-icon-theme ttf-dejavu ttf-liberation noto-fonts gnome-disk-utility gparted noto-fonts-cjk pulseaudio pulsemixer brightnessctl mtpfs gvfs-mtp gvfs-gphoto2 os-prober networkmanager networkmanager-pptp networkmanager-openvpn nm-connection-editor network-manager-applet ncdu chromium
 
 
 #Universal intel drivers (All gen 1 to up)
